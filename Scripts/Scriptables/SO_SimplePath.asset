@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9e7e5eb9e3505543ba4012251705be6, type: 3}
+  m_Name: SO_SimplePath
+  m_EditorClassIdentifier: 
+  BezierCurve:
+  - {fileID: 8868546871622521212, guid: 7139e15db5616814989ea7e4a0259ce2, type: 3}
+  - {fileID: 3776699694068220894, guid: ae80c5be7ea493745bb3b42816e634d2, type: 3}
